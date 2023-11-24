@@ -1,0 +1,7 @@
+DEPENDENCIES
+  apche-inst-attributes
+    path: .
+    metadata: true
+
+GRAPH
+  apche-inst-attributes (0.1.1)
