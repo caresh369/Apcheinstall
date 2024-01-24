@@ -1,7 +1,7 @@
 #
 # Cookbook:: apche-inst-attributes
 # Recipe:: default
-#
+# Editing
 # Copyright:: 2023, The Authors, All Rights Reserved.
 #
 apche_package_name = node['apche-inst-attributes']['package_name_for_apache']
